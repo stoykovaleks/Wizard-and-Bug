@@ -29,3 +29,22 @@ To get started with the Side-Scrolling Wizard Game, simply follow these steps:
    ```bash
    git clone https://github.com/your-username/side-scrolling-wizard-game.git
 
+## How to Play
+
+- Use the arrow keys (Up, Down, Left, Right) to control the wizard's movement.
+- Press the Spacebar to shoot fireballs at the approaching bugs.
+- Dodge the bugs and shoot them down to score points.
+- Try to achieve the highest score before a bug makes contact with your wizard.
+- The game ends when a bug touches your wizard.
+
+## Built With
+
+- HTML
+- CSS
+- JavaScript
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Enjoy playing the Side-Scrolling Wizard Game! If you have any questions or feedback, please feel free to reach out.
