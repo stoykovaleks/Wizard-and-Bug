@@ -13,8 +13,6 @@
 ## Project Overview
 Welcome to the Side-Scrolling Wizard Game! In this game, you take on the role of a powerful wizard soaring through the sky, but beware! Vicious bugs are swarming towards you, and your only defense is to shoot them down with your magical fireballs. Every successful hit earns you points, but if a bug makes contact, it's game over.
 
-![Wizard in Action](wizard-screenshot.png)
-
 ## Game Features
 - **High-Flying Wizard:** Navigate a wizard character through the boundless sky.
 - **Bugs Attack:** Bugs appear from the right and approach you relentlessly.
