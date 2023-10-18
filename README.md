@@ -1,6 +1,6 @@
 # Side-Scrolling Wizard Game
 
-![Game Screenshot](Picture 1.png)
+![Game Screenshot](wizardPicture.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
